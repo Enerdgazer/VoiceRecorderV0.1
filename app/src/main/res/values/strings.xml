@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">VoidRecorder</string>
+    <string name="app_name">VoiceRecorder</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment2">Hello blank fragment</string>
     <string name="Record">Запись</string>
