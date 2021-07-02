@@ -3,6 +3,7 @@ A simple voice recorder
 It can record save and play sound
 
 Technologies used:
+Java
 -RxJava
 -Room
 
