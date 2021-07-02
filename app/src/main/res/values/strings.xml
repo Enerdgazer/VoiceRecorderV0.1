@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">VoidRecorder</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment2">Hello blank fragment</string>
+    <string name="Record">Запись</string>
+    <string name="saveRecord">Сохраненные</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
