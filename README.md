@@ -7,7 +7,9 @@ Technologies used:
 -Room
 
 
-<img src="https://github.com/Enerdgazer/VoiceRecorderV0.1/blob/master/Screenshot_1625226293.png" width="250"> <img src="https://github.com/Enerdgazer/VoiceRecorderV0.1/blob/master/Screenshot_1625226741.png" width="250"> <img src="https://github.com/Enerdgazer/VoiceRecorderV0.1/blob/master/Screenshot_1625226758.png" width="250">
+<img src="https://github.com/Enerdgazer/VoiceRecorderV0.1/blob/master/Screenshot_1625227765.png" width="250"> <img src="https://github.com/Enerdgazer/VoiceRecorderV0.1/blob/master/Screenshot_1625227770.png" width="250"> <img src="https://github.com/Enerdgazer/VoiceRecorderV0.1/blob/master/Screenshot_1625227787.png" width="250">
+<img src="https://github.com/Enerdgazer/VoiceRecorderV0.1/blob/master/Screenshot_1625227784.png" width="250">
+<img src="https://github.com/Enerdgazer/VoiceRecorderV0.1/blob/master/Screenshot_1625227977.png" width="250">
 
 
 
